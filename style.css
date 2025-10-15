@@ -160,3 +160,15 @@ footer {
   .bio { font-size: 13px; margin-bottom: 20px; }
   .link { font-size: 16px; padding: 14px; }
 }
+.footer-link {
+  color: #00bcd4; /* main tech color */
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.footer-link:hover {
+  color: #00e5ff;
+  text-shadow: 0 0 8px #00e5ff;
+}
+
